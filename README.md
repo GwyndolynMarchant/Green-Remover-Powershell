@@ -7,3 +7,5 @@ Requires:
  * ImageMagick
  
 This script will analyze video and produce a GIF with transparency. It is neither robust nor well tested.
+
+More information [on their blog](https://engineering.giphy.com/modifying-ffmpeg-to-support-transparent-gifs/).

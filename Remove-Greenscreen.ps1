@@ -2,9 +2,6 @@
 .SYNOPSIS
     Attempts to convert a greenscreened video into a gif sticker automatically using a number of assumptions.
 
-.DESCRIPTION
-    A more detailed description of why and how the function works.
-
 .NOTES
     Author: Original script by Giphy, adapted to Powershell by Gwyndolyn Marchant
 #>

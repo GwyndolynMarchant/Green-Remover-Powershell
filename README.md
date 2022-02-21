@@ -1,7 +1,8 @@
-# Green-Remover
-This is a proof of concept of a green screen remover using FFMPEG and ImageMagic.
+# Green-Remover-Powershell
+This is a proof of concept of a green screen remover using FFMPEG and ImageMagic. It is functionally the same as GIPHY's bash script, but remade to work in Powershell Core.
 
 Requires:
+ * PowerShell 7.x
  * Recent version of FFMPEG
  * ImageMagick
  
